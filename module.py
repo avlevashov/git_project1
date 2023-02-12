@@ -1,2 +1,3 @@
 print('blanalna')
 print()
+print()

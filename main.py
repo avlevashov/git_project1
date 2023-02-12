@@ -10,7 +10,7 @@ def print_hi(name):
     print ('Some changes')
     print()
     print()
-    a=6
+    a=7
 
     print(a)
 

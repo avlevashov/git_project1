@@ -10,7 +10,8 @@ def print_hi(name):
     print ('Some changes')
     print()
     print()
-    a=8
+    a=9
+    b=0
 
     print(a)
 

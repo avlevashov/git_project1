@@ -10,6 +10,9 @@ def print_hi(name):
     print ('Some changes')
     print()
     print()
+    a=5
+
+    print(a)
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':

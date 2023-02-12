@@ -8,7 +8,7 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print('Hello')
     print('Andrey')
-    print('this is from br1')
+    print('This is from dev but it was in br1')
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
